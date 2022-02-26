@@ -1,4 +1,4 @@
-# Radeon Client
+# Radeon Client SRC
 The absolute *worst* client to ever exist.
 Skids from many clients.
 
@@ -13,5 +13,7 @@ other clients.
 
 I have asked them to not use my code or credit me, but they
 didn't do either, so yeah I'm putting the code here :P
+
+Oh and it's a .zip file because I made this repo whilst on my phone.
 
 ![skidproof][skidproof.png]
