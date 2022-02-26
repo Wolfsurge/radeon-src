@@ -1,6 +1,8 @@
 # Radeon Client SRC
 The absolute *worst* client to ever exist.
 Skids from many clients.
+Also, "devs" are so retarded that they didn't know to push the fucking
+src folder in the "open source edition"
 
 Here's why my name is in some of the code:
 
