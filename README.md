@@ -16,4 +16,4 @@ didn't do either, so yeah I'm putting the code here :P
 
 Oh and it's a .zip file because I made this repo whilst on my phone.
 
-![skidproof][skidproof.png]
+![skidproof][radeon-skid-proof.png]
